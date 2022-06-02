@@ -27,7 +27,7 @@ const navigation = [
     <nav 
      className={
                     scrolled
-                        ? 'bg-yellow-600 shadow-sm shadow-slate-50'
+                        ? 'bg-orange-500 shadow-sm shadow-slate-50'
                         : 'bg-transparent'
                 }
     >

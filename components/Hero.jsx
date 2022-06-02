@@ -12,7 +12,10 @@ function Hero() {
           RIDE
         </h1>
         <p className="mb-8 leading-relaxed text-gray-500 lg:w-4/5 xl:text-lg md:mb-12">
-         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam itaque reiciendis ipsam fugiat illum fuga reprehenderit expedita quos, ex libero velit impedit odio?
+         START RIDING WITH FLINT!
+        </p>
+        <p className='mb-8 leading-relaxed text-gray-800 lg:w-3/4 xl:text-lg md:mb-12'>
+          Earn money on your schedule
         </p>
      
       </div>

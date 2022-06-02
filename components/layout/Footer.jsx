@@ -4,7 +4,7 @@ import React from 'react'
 function Footer() {
   return (
  
-       <div id='footer' className="px-4 pt-16 mx-auto scroll-smooth sm:max-w-xl md:max-w-full lg:max-w-screen-2xl md:px-24 lg:px-8">
+       <div id='footer' className=" bg-orange-500 shadow px-4 pt-16 mx-auto scroll-smooth sm:max-w-xl md:max-w-full lg:max-w-screen-2xl md:px-24 lg:px-8">
       <div className="grid gap-16 row-gap-10 mb-8 lg:grid-cols-6">
         <div className="md:max-w-md lg:col-span-2">
           <Link
@@ -20,19 +20,17 @@ function Footer() {
           </Link>
           <div className="mt-4 lg:max-w-sm">
             <p className="text-sm text-white">
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque laudantium, totam rem aperiam.
+              Flint! is an Application developed by students to help curb transportation problems in the Country
             </p>
             <p className="mt-4 text-sm text-white">
-              Eaque ipsa quae ab illo inventore veritatis et quasi architecto
-              beatae vitae dicta sunt explicabo.
+              Visit The Google Playstore or App Store to dowload.
             </p>
           </div>
         </div>
         <div className="grid grid-cols-2 gap-5 row-gap-8 lg:col-span-4 md:grid-cols-4">
           <div>
             <p className="font-semibold tracking-wide text-white">
-              Category
+              Our Products
             </p>
             <ul className="mt-2 space-y-2">
               <li>
@@ -40,7 +38,7 @@ function Footer() {
                   href="/"
                   className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                 >
-                  News
+                  Ride
                 </Link>
               </li>
               <li>
@@ -48,46 +46,7 @@ function Footer() {
                   href="/"
                   className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                 >
-                  World
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/"
-                  className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  Games
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/"
-                  className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  References
-                </Link>
-              </li>
-            </ul>
-          </div>
-          <div>
-            <p className="font-semibold tracking-wide text-white">
-              Business
-            </p>
-            <ul className="mt-2 space-y-2">
-              <li>
-                <Link
-                  href="/"
-                  className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  Web
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/"
-                  className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  eCommerce
+                 Become a Driver
                 </Link>
               </li>
               <li>
@@ -98,33 +57,18 @@ function Footer() {
                   Business
                 </Link>
               </li>
-              <li>
-                <Link
-                  href="/"
-                  className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  Entertainment
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/"
-                  className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  Portfolio
-                </Link>
-              </li>
+              
             </ul>
           </div>
           <div>
-            <p className="font-semibold tracking-wide text-white">Apples</p>
+            <p className="font-semibold tracking-wide text-white">Help and Support</p>
             <ul className="mt-2 space-y-2">
               <li>
                 <Link
                   href="/"
                   className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                 >
-                  Media
+                  Help Centre
                 </Link>
               </li>
               <li>
@@ -132,7 +76,7 @@ function Footer() {
                   href="/"
                   className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                 >
-                  Brochure
+                  Contacts
                 </Link>
               </li>
               <li>
@@ -140,36 +84,20 @@ function Footer() {
                   href="/"
                   className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                 >
-                  Nonprofit
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/"
-                  className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  Educational
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/"
-                  className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  Projects
+                  Cities
                 </Link>
               </li>
             </ul>
           </div>
           <div>
-            <p className="font-semibold tracking-wide text-white">Cherry</p>
+            <p className="font-semibold tracking-wide text-white">About</p>
             <ul className="mt-2 space-y-2">
               <li>
                 <Link
                   href="/"
                   className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                 >
-                  Infopreneur
+                  About Flint!
                 </Link>
               </li>
               <li>
@@ -177,7 +105,7 @@ function Footer() {
                   href="/"
                   className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                 >
-                  Personal
+                  Careers
                 </Link>
               </li>
               <li>
@@ -185,24 +113,17 @@ function Footer() {
                   href="/"
                   className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                 >
-                  Wiki
+                  Security
                 </Link>
               </li>
-              <li>
-                <Link
-                  href="/"
-                  className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
-                >
-                  Forum
-                </Link>
-              </li>
+             
             </ul>
           </div>
         </div>
       </div>
       <div className="flex flex-col justify-between pt-5 pb-10 border-t sm:flex-row">
         <p className="text-sm text-gray-600">
-          © Copyright 2022 Lorem Inc. All rights reserved.
+          © Copyright 2022 Flint! Inc. All rights reserved.
         </p>
         <div className="flex items-center mt-4 space-x-4 sm:mt-0">
           <Link

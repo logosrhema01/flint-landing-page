@@ -2,77 +2,66 @@ import React from 'react'
 
 const team = [
     {
-        image : "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260",
-        name : "John Doe",
+        image : "../Images/Bello.jpeg",
+        name : "Michael Andzie-Quainoo",
         position : "CEO",
 
     },
     {
-        image : "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260",
-        name : "John Doe",
-        position : "CEO",
+        image : "../Images/Claudia.jpeg",
+        name : "Claudia Fiadonu",
+        position : "Project Manager",
 
     },
     {
-        image : "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260",
-        name : "John Doe",
-        position : "CEO",
+        image : "../Images/Mediwo.jpg",
+        name : "Kelvin Nketia-Akyeampong",
+        position : "Engineering Head",
 
     },
     {
-        image : "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260",
-        name : "John Doe",
-        position : "CEO",
+        image : "../Images/Sarsah.jpeg",
+        name : "Kobina Sarsah-Arthur",
+        position : "Quality Assurance Manager",
 
     },
     {
-        image : "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260",
-        name : "John Doe",
-        position : "CEO",
+        image : "../Images/Ralph.jpeg",
+        name : "Raphael Graham Baddoo",
+        position : "Lead Frontend Engineer",
 
     },
     {
-        image : "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260",
-        name : "John Doe",
-        position : "CEO",
+        image : "../Images/Andy Musey.jpeg",
+        name : "Andy Mussey",
+        position : "Frontend Developer",
 
     },
     {
-        image : "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260",
-        name : "John Doe",
-        position : "CEO",
+        image : "../Images/Mann.jpeg",
+        name : "Mannaseh Ameyow",
+        position : "Mobile Application Developer",
 
     },
     {
-        image : "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260",
-        name : "John Doe",
-        position : "CEO",
+        image : "../Images/Martey.jpeg",
+        name : "Richmond Martey",
+        position : "Mobile Application Developer",
 
     },
     {
-        image : "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260",
-        name : "John Doe",
-        position : "CEO",
+        image : "../Images/Abadang.jpeg",
+        name : "Kelvin Abadang",
+        position : "UI Designer",
 
     },
     {
-        image : "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260",
-        name : "John Doe",
-        position : "CEO",
+        image : "../Images/Rashid.jpeg",
+        name : "Yakubu Diviela Rashid",
+        position : "UI Designer",
 
     },
-    {
-        image : "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260",
-        name : "John Doe",
-        position : "CEO",
-
-    },
-    {
-        image : "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260",
-        name : "John Doe",
-        position : "CEO",
-
-    }
+   
 
 ]
 

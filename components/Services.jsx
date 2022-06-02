@@ -3,16 +3,16 @@ import React from 'react'
 
 const services = [
     {
-        title : 'Growth',
-        description : 'Filler text is dummy text which has no meaning however looks very similar to real text.'
+        title : 'Safe and Covenient',
+        description : 'Moving with Flint! is convenient and Fast'
     },
     {
-        title : 'Security',
-        description : 'Filler text is dummy text which has no meaning however looks very similar to real text.'
+        title : 'The Best Prices',
+        description : 'We aim to offer the best ride prices in every City. See for yourself!'
     },
     {
-        title : 'Cloud',
-        description : 'Filler text is dummy text which has no meaning however looks very similar to real text.'
+        title : 'Easy To Use',
+        description : 'Get Wherever you neeed to go as weekly as possible.'
     },
 ]
 

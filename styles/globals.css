@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-.hero-bg {
+/*.hero-bg {
     background: url('../public/bg-img.jpg');
     @apply bg-cover bg-center bg-no-repeat; 
 }
@@ -10,3 +10,4 @@ footer {
 @apply bg-yellow-600 lg:py-20
 
 }
+*/
