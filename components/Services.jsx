@@ -32,9 +32,9 @@ function Services() {
       {
         services.map((service, index) => (
            
-      <div className="flex flex-col p-4 border rounded-lg md:p-6" key={index}>
+      <div className="flex bg-green-500 flex-col p-4 border rounded-lg md:p-6" key={index}>
         <h3 className="mb-2 text-lg font-semibold md:text-xl">{service.title}</h3>
-        <p className="mb-4 text-gray-500">
+        <p className="mb-4 text-gray-700">
          { service.description}
         </p>
         
