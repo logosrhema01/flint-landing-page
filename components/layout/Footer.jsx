@@ -4,7 +4,7 @@ import React from 'react'
 function Footer() {
   return (
  
-       <div id='footer' className=" bg-orange-500 shadow px-4 pt-16 mx-auto scroll-smooth sm:max-w-xl md:max-w-full lg:max-w-screen-2xl md:px-24 lg:px-8">
+       <div id='footer' className="  shadow px-4 pt-16 mx-auto scroll-smooth sm:max-w-xl md:max-w-full lg:max-w-screen-2xl md:px-24 lg:px-8">
       <div className="grid gap-16 row-gap-10 mb-8 lg:grid-cols-6">
         <div className="md:max-w-md lg:col-span-2">
           <Link

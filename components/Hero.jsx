@@ -2,7 +2,7 @@ import React from 'react'
 
 function Hero() {
   return (
-    <div className="-mt-16 bg-white py-28 h-4/6 md:h-5/6 lg:h-5/7 sm:py-16 lg:py-20 hero-bg">
+    <div className="-mt-16 py-28 h-4/6 md:h-5/6 lg:h-5/7 sm:py-16 lg:py-20 hero-bg">
   <div className="px-4 mx-auto max-w-screen-2xl md:px-8">
   
     <section className="flex flex-col justify-between gap-6 lg:flex-row sm:gap-10 md:gap-16">
