@@ -33,7 +33,7 @@ const team = [
     },
     {
         image : "../Images/Andy Musey.jpeg",
-        name : "Andy Mussey",
+        name : "Andy Musey",
         position : "Frontend Developer",
 
     },

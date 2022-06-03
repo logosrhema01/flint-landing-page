@@ -14,10 +14,12 @@ function Hero() {
         <p className="mb-8 leading-relaxed text-gray-500 lg:w-4/5 xl:text-lg md:mb-12">
          START RIDING WITH FLINT!
         </p>
-        <p className='mb-8 leading-relaxed text-gray-800 lg:w-3/4 xl:text-lg md:mb-12'>
+        <p className='mb-8 leading-relaxed text-gray-500 lg:w-3/4 xl:text-lg md:mb-12'>
           Earn money on your schedule
         </p>
-     
+        <p className='mb-8 leading-loose text-gray-500 lg:w-4/5 xl:text-lg md:mb-12'>
+          Get Paid Weekly
+        </p>
       </div>
       {/* content - end */}
      

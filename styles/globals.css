@@ -8,4 +8,7 @@
     
 }
 
-
+footer {
+    @apply bg-orange-500 lg:py-20
+    
+    }
